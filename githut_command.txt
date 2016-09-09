@@ -1,1 +1,6 @@
 #here is the txt file created
+# Other command that corresponds to 'git add' is 'git rm'
+example usage:
+git add file.txt
+cp file.txt file2.txt
+git status #this will show that 2 files have been added to
